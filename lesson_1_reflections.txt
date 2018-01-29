@@ -27,7 +27,7 @@ diff allows you to compare two versions from the log
 How might using version control make you more confident to make changes that
 could break something?
 
-abviously - this also allows other developers to see what was changed
+obviously - this also allows other developers to see what was changed
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
