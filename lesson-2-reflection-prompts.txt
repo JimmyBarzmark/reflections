@@ -19,3 +19,7 @@ What is the result of merging two branches together? Why do we represent it in t
 merging branches combines the code.
 Not sure it is stupid macs with their line feed shit.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git can merge if the changes make sense - but similar code changed in multiple commits needs the developers input.
+
